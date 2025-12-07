@@ -33,8 +33,12 @@ The project is fully containerized for easy setup.
 
 1.  **Clone the repository (or download the files):**
     \`\`\`bash
-    git clone 
+    git clone
     cd pure_php_mvc
+    \`\`\`
+    **Alternative: Run using Docker Hub Pre-Built Image**
+     \`\`\`bash
+     docker pull sumaiya21/php-form-submission-system-mvc
     \`\`\`
 
 2.  **Build and start the containers:**
